@@ -1,0 +1,18 @@
+.comment-box {
+  display: flex;
+  margin-top: 10px;
+  border-top: 1px solid lightgray;
+}
+
+.comment-box__input {
+  flex: 1;
+  border: none !important;
+  padding: 10px;
+}
+
+
+
+.comment-box__button {
+  flex: 0;
+  color: #6082a3 !important;
+}
